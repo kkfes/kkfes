@@ -7,6 +7,6 @@
 <a href='https://qiwi.com/n/KKFES'><img src="https://old-corp.qiwi.com/dam/jcr:fbce4856-723e-44a2-a54f-e7b164785f01/qiwi_sign_rgb.png" width=30px></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkfes)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkfes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkfes&show_icons=true&theme=radical)
