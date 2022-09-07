@@ -11,6 +11,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkfes&show_icons=true&theme=radical)
 
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=kkfes&row=1&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=kkfes&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
 ## My skills:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -28,3 +33,4 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Visual](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VisualCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
