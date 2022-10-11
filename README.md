@@ -32,5 +32,4 @@
 ![VisualCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## Contact me:
-<a href='https://t.me/kkfes'><img src="https://lottiefiles.com/71618-telegram-message-transp-bkg" height="50px" />
-</a>
+<a href='https://t.me/kkfes'>Telegram</a>
