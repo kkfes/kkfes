@@ -3,10 +3,6 @@
 
 # Hi! Welcome to my github page
 
-<a href='https://t.me/kkfes'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png" width=30px></a>
-<a href='https://qiwi.com/n/KKFES'><img src="https://old-corp.qiwi.com/dam/jcr:fbce4856-723e-44a2-a54f-e7b164785f01/qiwi_sign_rgb.png" width=30px></a>
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkfes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkfes&show_icons=true&theme=radical)
@@ -31,6 +27,10 @@
 ![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![IntelijIDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=whit)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VisualCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+## Contact me:
+<a href='https://t.me/kkfes'><img src="https://lottiefiles.com/71618-telegram-message-transp-bkg" height="50px" />
+</a>
