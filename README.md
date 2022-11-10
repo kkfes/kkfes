@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/74965405/188200935-82565583-4a41-41a3-9da8-d0c43527efbc.jpg" width=100%>
+<img src="https://telegra.ph/file/52d860be801cfe5c8be21.png" width=100%>
 
 # Hi! Welcome to my github page
 
