@@ -6,10 +6,7 @@
 ![Snake](https://github.com/kkfes/kkfes/blob/output/github-contribution-grid-snake.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkfes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkfes&show_icons=true&theme=radical)
-
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=kkfes&row=1&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=kkfes&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
