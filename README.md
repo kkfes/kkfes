@@ -3,8 +3,6 @@
 
 # Hi! Welcome to my github page
 
-![Snake](https://github.com/kkfes/kkfes/blob/output/github-contribution-grid-snake.svg)
-
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=kkfes&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## My skills:
