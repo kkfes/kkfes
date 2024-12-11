@@ -2,8 +2,7 @@
 <img src="https://telegra.ph/file/83bb28030fa1265bcce7a.png" width=100%>
 
 # Hi! Welcome to my github page
-
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=kkfes&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Snake Game](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)]
 
 ## My skills:
 
