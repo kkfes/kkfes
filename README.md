@@ -2,7 +2,7 @@
 <img src="https://telegra.ph/file/83bb28030fa1265bcce7a.png" width=100%>
 
 # Hi! Welcome to my github page
-[![Snake Game](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)]
+![Snake Game](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ## My skills:
 
