@@ -121,7 +121,7 @@ public class CurrentProjects {
 
 <div align="center">
   
-  ![Cosmic Divider](https://raw.githubusercontent.com/kkfes/kkfes/output/github-contribution-grid-snake.svg)
+  ![Cosmic Divider](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
   
   *"To infinity and beyond... or at least until the next coffee break"*
   
