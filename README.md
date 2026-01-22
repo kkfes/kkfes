@@ -44,23 +44,6 @@
 
 ---
 
-## 📡 **Current Mission**
-
-```java
-public class CurrentProjects {
-    public static void main(String[] args) {
-        Mission mission = new Mission.Builder()
-            .type("Backend Microservices")
-            .techStack(Arrays.asList("Java 17", "Spring Boot 3", "PostgreSQL"))
-            .status("In Progress")
-            .deadline("Q2 2024")
-            .build();
-        
-        System.out.println("🚀 Deploying: " + mission);
-    }
-}
-```
-
 ## **🎯 Specializations**
 
 ### **Backend Engineering**
